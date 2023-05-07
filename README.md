@@ -5,7 +5,3 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibnr2hc&layout=compact&theme=radical&count_private=true&hide=Makefile,Vim+Script,Shell" />
 </a>
-
-## github-profile-trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=ibnr2hc&theme=radical&column=7&rank=B,BB,BBB,A,AA,AAA,S,SS,SSS,SECRET
-)](https://github.com/ryo-ma/github-profile-trophy)
