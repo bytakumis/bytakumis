@@ -1,6 +1,3 @@
-## My Profile
-
-https://takumi.baby/
 
 ## github-readme-stats
 <a href="https://github.com/anuraghazra/convoychat">
