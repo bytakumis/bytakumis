@@ -9,7 +9,7 @@
 - 📫 How to reach me:
   -  [X - @ibnr2hc](https://x.com/ibnr2hc)
   -  [LinkedIn - @takumi-suzuki](https://www.linkedin.com/in/takumi-suzuki/)
-<br>
+<br />
 
 
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
@@ -26,10 +26,14 @@
 ### Tools
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=git,github,githubactions,notion,postman,vim" />
 
-<br>
+<br />
 
 
 ## 🏃‍♀️ Activities
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibnr2hc&layout=compact&theme=radical&count_private=true&hide=Makefile,Vim+Script,Shell" />
 </a>
+
+<br /><br />
+
+Special thanks [https://github.com/NonokaM](https://github.com/NonokaM) !!
