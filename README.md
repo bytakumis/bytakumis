@@ -15,10 +15,10 @@
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
 ### Infra
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=aws,docker,linux,supabase,bash" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=aws,gcp,docker,linux,supabase,bash" />
 
 ### Backend
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=py,go,nodejs,django,flask,prisma,redis,dynamodb,postgres,mysql" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=rust,go,py,nodejs,django,flask,prisma,redis,dynamodb,postgres,mysql" />
 
 ### Frontend
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=ts,html,css,tailwind,nextjs,prisma" />
