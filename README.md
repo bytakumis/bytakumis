@@ -7,7 +7,7 @@
 
 - 🧑‍💻 I'm a backend and Infra engineer.
 - 📫 How to reach me:
-  -  [X - @from_takumi](https://x.com/from_takumi)
+  -  [X - @by_takumi_s](https://x.com/by_takumi_s)
   -  [LinkedIn - @takumi-suzuki](https://www.linkedin.com/in/takumi-suzuki/)
 <br />
 
