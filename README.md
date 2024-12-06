@@ -1,5 +1,5 @@
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=ibnr2hc" />
+  <img src="https://komarev.com/ghpvc/?username=bytakumis" />
 </div>
 
 
@@ -7,7 +7,7 @@
 
 - 🧑‍💻 I'm a backend and Infra engineer.
 - 📫 How to reach me:
-  -  [X - @by_takumi_s](https://x.com/by_takumi_s)
+  -  [X - @bytakumis](https://x.com/bytakumis)
   -  [LinkedIn - @takumi-suzuki](https://www.linkedin.com/in/takumi-suzuki/)
 <br />
 
