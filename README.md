@@ -9,6 +9,7 @@
 - 📫 How to reach me:
   -  [X - @bytakumis](https://x.com/bytakumis)
   -  [LinkedIn - @takumi-suzuki](https://www.linkedin.com/in/takumi-suzuki/)
+  -  [Skills](https://bytakumi.net/skills.pdf)
 <br />
 
 
